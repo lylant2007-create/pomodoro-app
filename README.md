@@ -1,4 +1,3 @@
-# pomodoro-app
 # 🍅 Pomodoro Pixel App 🍅
 
 *Do you feel normal Pomodoro apps are so boring? Or maybe you struggle to find the motivation to study? Don't worry, I've got you covered!* ٩(◕‿◕)۶
@@ -17,10 +16,10 @@ Stay productive, stay motivated, and have fun building your own little pixel wor
 ### 🚀 Download Now
 You can download the latest version of the app here:
 
-👉 **[Download Pomodoro Pixel App (Windows)](https://drive.google.com/drive/quota)** 👈
+👉 **[Download Pomodoro Pixel App (Windows)](https://drive.google.com/file/d/1ZL02dE076yLAogt_XM9OJNxupM7FONlK/view?usp=sharing)** 👈
 
 *(Note: If your browser warns you that the file is "not commonly downloaded", don't worry! It's just because this is a personal project. Just click "Keep" or "Download anyway" to enjoy the app!)* (◕‿◕✿)
-TRUST ME BRO (ಡ_ಡ)☞
 
+TRUST ME BRO (ಡ_ಡ)☞
 ---
 *Happy studying! (人*´∀｀)*｡*ﾟ+*
