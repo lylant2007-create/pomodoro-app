@@ -23,3 +23,4 @@ You can download the latest version of the app here:
 TRUST ME BRO (ಡ_ಡ)☞
 ---
 *Happy studying! (人*´∀｀)*｡*ﾟ+*
+feedback pls email: lylant2007@gmail.com
