@@ -1,6 +1,7 @@
 # 🍅 Pomodoro Pixel App 🍅
 
 *Do you feel normal Pomodoro apps are so boring? Or maybe you struggle to find the motivation to study? Don't worry, I've got you covered!* ٩(◕‿◕)۶
+<img width="1179" height="1624" alt="848676755_1832363707906441_237486255736768728_n" src="https://github.com/user-attachments/assets/b3d3149b-32bc-4d37-9f9a-6634007e78ce" />
 
 ### ✨ Why this app is different?
 Forget the boring timers! My Pomodoro app turns your study sessions into an exciting adventure:
